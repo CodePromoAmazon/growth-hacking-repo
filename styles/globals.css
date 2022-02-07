@@ -19,6 +19,10 @@ main {
   align-items: center;
 }
 
+h1 {
+    color:#3434ff;
+}
+
 code {
   background: #fafafa;
   border-radius: 5px;
