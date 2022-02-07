@@ -29,7 +29,7 @@ h1 {
     font-weight:600;
 }
 
-@keyframes gradient-move {
+@keyframes gradient {
   0% {
 		background-position: 0% 50%;
 	}
