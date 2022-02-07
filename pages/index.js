@@ -22,11 +22,17 @@ export default function Home() {
           Qu&apos;il s&apos;agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :
          </p>
        
-        <p className="description"><br style="box-sizing: border-box;">Des centaines de <a href="https://sales-hacking.com/growth-hacks" target="_blank">growth hacks</a> enrichis CHAQUE JOUR</br></p>
-        <p className="description"><br style="box-sizing: border-box;">Près de 100 <a href="https://www.sales-hacking.com/growth-ressources">ressources pour entrepreneurs</a> téléchargeables</br>,</p>
-        <p className="description"><br style="box-sizing: border-box;">100 articles de blog autour du <a href="https://www.sales-hacking.com/blog-categories/growth-hacking">growth hacking</a>, de <a href="https://www.sales-hacking.com/blog-categories/seo-content-marketing">content marketing</a>, de techniques pour les Sales, du <a href="https://www.sales-hacking.com/blog-categories/web-scraping">Web scraping</a>, de Lead Generation et de l&apos;entrepreneuriat en général,</br></p>
-        <p className="description"><br style="box-sizing: border-box;">Des conseils de lecture avec <a href="https://www.sales-hacking.com/livres">le meilleur des livres business</a></br></p>
-        <p className="description"><br style="box-sizing: border-box;">Des applications SaaS</br></p>
+        <p className="description">Des centaines de <a href="https://sales-hacking.com/growth-hacks" target="_blank">growth hacks</a> enrichis CHAQUE JOUR</p>
+        <p className="description">Près de 100 <a href="https://www.sales-hacking.com/growth-ressources">ressources pour entrepreneurs</a> téléchargeables</p>
+        <p className="description">
+          100 articles de blog autour du <a href="https://www.sales-hacking.com/blog-categories/growth-hacking">growth hacking</a>, de <a href="https://www.sales-hacking.com/blog-categories/seo-content-marketing">content marketing</a>, de techniques pour les Sales, du <a href="https://www.sales-hacking.com/blog-categories/web-scraping">Web scraping</a>, de Lead Generation et de l&apos;entrepreneuriat en général,
+        </p>
+        <p className="description">
+          Des conseils de lecture avec <a href="https://www.sales-hacking.com/livres">le meilleur des livres business</a>
+        </p>
+        <p className="description">
+          Des applications SaaS
+        </p>
     
       </main>
 
