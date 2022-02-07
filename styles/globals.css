@@ -31,6 +31,27 @@ h1 {
     color:#3434ff;
 }
 
+@keyframes gradient-move {
+  10% {
+    background-color: #ff5f6d;
+  }
+  20% {
+    background-color: rgb(255, 199, 121);
+  }
+  40% {
+    background-color: #ff9068;
+  }
+  60% {
+    background-color: #cb3066;
+  }
+  80% {
+    background-color: #16bffd;
+  }
+  90% {
+    background-color: #eecda3;
+  }
+}
+
 code {
   background: #fafafa;
   border-radius: 5px;
