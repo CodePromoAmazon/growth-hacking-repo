@@ -16,6 +16,14 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
+        <p className="description">
+          Lets GROW est la référence des ressources : bonnes pratiques dans le domaine du Growth Hacking et de l&apos;entrepreneuriat au sens large.
+        </p>
+        <p className="description">
+          Nous aidons gratuitement les entrepreneurs, growth hackers et commerciaux pour obtenir tout le nécessaire pour booster leur croissance.
+        </p>
+    
+    
       </main>
 
       <Footer />
