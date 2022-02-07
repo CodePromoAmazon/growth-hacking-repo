@@ -19,7 +19,7 @@ export default function Home() {
           Nous aidons gratuitement les entrepreneurs, growth hackers et commerciaux pour obtenir tout le nécessaire pour booster leur croissance.
         </p>
          <p className="description">
-          <br style="box-sizing: border-box;">Qu'il s'agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :</br>
+          Qu&apos;il s&apos;agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :
          </p>
     
       </main>
