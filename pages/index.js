@@ -13,16 +13,14 @@ export default function Home() {
       <main>
         <Header title="Welcome to LETS GROW!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-
-        <p className="description">
           Lets GROW est la référence des ressources : bonnes pratiques dans le domaine du Growth Hacking et de l&apos;entrepreneuriat au sens large.
         </p>
         <p className="description">
           Nous aidons gratuitement les entrepreneurs, growth hackers et commerciaux pour obtenir tout le nécessaire pour booster leur croissance.
         </p>
-    
+         <p className="description">
+          <br style="box-sizing: border-box;">Qu'il s'agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :</br>
+         </p>
     
       </main>
 
