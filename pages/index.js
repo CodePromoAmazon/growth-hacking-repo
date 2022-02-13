@@ -34,9 +34,11 @@ export default function Home() {
           Des applications SaaS
         </p>
     
-        <a class="twitter-timeline" href="https://twitter.com/StephenMesnild1?ref_src=twsrc%5Etfw"></a> 
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-        </script>
+        <a href="https://twitter.com/StephenMesnild1?ref_src=twsrc%5Etfw" 
+          class="twitter-follow-button" 
+          data-show-count="false">Follow @StephenMesnild1
+        </a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     
       </main>
 
