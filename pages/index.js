@@ -6,40 +6,35 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>💙 LETS GROW !</title>
+        <title> Bienvenu sur le site code promo Amazon!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to LETS GROW!" />
+        <Header title="Bienvenu sur le site code promo Amazon!" />
         <p className="description">
-          Lets GROW est la référence des ressources : bonnes pratiques dans le domaine du Growth Hacking et de l&apos;entrepreneuriat au sens large.
+          Les-Codes-Promos.com est la référence des ressources : tous les codes promos Amazon valides pour avoir une réduction sur tout le panier d'achat.
         </p>
         <p className="description">
-          Nous aidons gratuitement les entrepreneurs, growth hackers et commerciaux pour obtenir tout le nécessaire pour booster leur croissance.
+          Nous fournissons des codes promos Amazon pour des réductions de prix pour les clients Amazon.
         </p>
          <p className="description">
-          Qu&apos;il s&apos;agisse de novices ou de profils chevronnés, nous alimentons chaque jour une base de :
+          La solution pour faire de grandes économies quand on achète sur Amazon
          </p>
        
-        <p className="description">Des centaines de <a href="https://sales-hacking.com/growth-hacks" target="_blank">growth hacks</a> enrichis CHAQUE JOUR</p>
-        <p className="description">Près de 100 <a href="https://www.sales-hacking.com/growth-ressources">ressources pour entrepreneurs</a> téléchargeables</p>
+        <p className="description">Codes promo Amazon 2022 <a href="https://www.les-codes-promos.com/code-promo-amazon" target="_blank">Code promo Amazon</a> Bon de reduction Amazon</p>
+        <p className="description">codes promo amazon <a href="https://www.les-codes-promos.com/code-promo-amazon">codes promotionnels amazon</a> livraison gratuite</p>
         <p className="description">
-          100 articles de blog autour du <a href="https://www.sales-hacking.com/blog-categories/growth-hacking">growth hacking</a>, de <a href="https://www.sales-hacking.com/blog-categories/seo-content-marketing">content marketing</a>, de techniques pour les Sales, du <a href="https://www.sales-hacking.com/blog-categories/web-scraping">Web scraping</a>, de Lead Generation et de l&apos;entrepreneuriat en général,
+          code promo amazon prime <a href="https://www.les-codes-promos.com/code-promo-amazon">coupons codes Amazon</a>, de <a href="https://www.les-codes-promos.com/code-promo-amazon">code promo amazon prime</a>, Soldes Amazon 2022 <a href="https://www.les-codes-promos.com/code-promo-amazon">code réduction amazon</a>, réduction Amazon sur tout le panier,
         </p>
         <p className="description">
-          Des conseils de lecture avec <a href="https://www.sales-hacking.com/livres">le meilleur des livres business</a>
+          code reduction amazon sur tout le panier <a href="https://www.les-codes-promos.com/code-promo-amazon">code reduction amazon livre</a>
         </p>
         <p className="description">
-          Des applications SaaS
+          Des codes de promos Amazon
         </p>
     
-        <a href="https://twitter.com/StephenMesnild1?ref_src=twsrc%5Etfw" 
-          class="twitter-follow-button" 
-          data-show-count="false">Follow @StephenMesnild1
-        </a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
+           
       </main>
 
       <Footer />
